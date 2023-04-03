@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExemploAssertionsTest::testStringIguais":7},"times":{"ExemploAssertionsTest::testStringIguais":0.091,"ExemploAssertionsTest::testNumerosAdd":0.008,"CarrinhoTest::testRetornoCorretoPrecoTotal":0.026,"CarrinhoTest::mudancaValorImpostoCarrinho":0.001}}
